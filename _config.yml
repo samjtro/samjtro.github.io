@@ -6,7 +6,7 @@ url: "samjtro.github.io" # the base hostname & protocol for your site e.g. http:
 
 # User settings
 username: samjtro
-user_description: Samuel Troyer is a Python Data Engineer skilled with Pandas, Machine Learning, NoSQL, Distribute Database Management, and more. I am currently learning K8s for Containers-as-a-Service deployments, Containerization, Go & Machine Learning.
+user_description: Python Data Engineer skilled with Pandas, Machine Learning, NoSQL, Distribute Database Management, and more. Currently learning K8s for Containers-as-a-Service deployments, Containerization, Go & Machine Learning.
 user_title: Data Engineer
 email: samuel.troyer.j@gmail.com
 twitter_username: samjtro
