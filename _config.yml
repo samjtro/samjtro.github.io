@@ -1,0 +1,20 @@
+# Site settings
+title: samjtro
+description: Samuel Troyer's Portfolio & CV; Python & Go Data / Back-End Engineer
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "samjtro.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: samjtro
+user_description: Samuel Troyer is a Python Data Engineer skilled with Pandas, Machine Learning, NoSQL, Distribute Database Management, and more. I am currently learning K8s for Containers-as-a-Service deployments, Containerization, Go & Machine Learning.
+user_title: Data Engineer
+email: samuel.troyer.j@gmail.com
+twitter_username: samjtro
+github_username:  samjtro
+gplus_username:  samjtro
+
+# Google-analytics
+google-analytics:
+  id: "G-FCBSNWRFP9"
+
+exclude: ['package.json', 'src' , 'node_modules']
